@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/skrallgaming/static/css/main.c8bc51e8.css",
-    "main.js": "/skrallgaming/static/js/main.f91a280d.js",
+    "main.js": "/skrallgaming/static/js/main.13aaeb09.js",
     "index.html": "/skrallgaming/index.html",
     "main.c8bc51e8.css.map": "/skrallgaming/static/css/main.c8bc51e8.css.map",
-    "main.f91a280d.js.map": "/skrallgaming/static/js/main.f91a280d.js.map"
+    "main.13aaeb09.js.map": "/skrallgaming/static/js/main.13aaeb09.js.map"
   },
   "entrypoints": [
     "static/css/main.c8bc51e8.css",
-    "static/js/main.f91a280d.js"
+    "static/js/main.13aaeb09.js"
   ]
 }
